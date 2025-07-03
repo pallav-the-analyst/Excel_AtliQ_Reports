@@ -52,7 +52,8 @@ This project not only allowed me to apply my technical skills but also provided 
 
 # Report Links
 
-- [Customer Performance Report](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20Customer%20Performance%20Report.pdf)
-- [Market Performance and Sales Targets Comparison Report](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20Market%20Performance%20Report.pdf)
-- [Profit and Loss (P&L) Reports by Fiscal Year and Months](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)
-- [Profit and Loss (P&L) Reports by Markets](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
+- [Customer Performance Report]https://github.com/pallav-the-analyst/Excel_AtliQ_Reports/blob/main/AtliQ-Customer%20Perfromance%20Report.pdf
+- [Market Performance and Sales Targets Comparison Report]https://github.com/pallav-the-analyst/Excel_AtliQ_Reports/blob/main/AtliQ-Market%20Performance%20vs%20Target%20Report.pdf
+- [Profit and Loss (P&L) Reports by Fiscal Year]https://github.com/pallav-the-analyst/Excel_AtliQ_Reports/blob/main/AtliQ-P%26L%20Statement%20by%20Fiscal%20Year.pdf
+- [Profit and Loss (P&L) Reports by Months]https://github.com/pallav-the-analyst/Excel_AtliQ_Reports/blob/main/AtliQ-P%20%26%20L%20Statement%20by%20Months.pdf
+- [Profit and Loss (P&L) Reports by Markets]https://github.com/pallav-the-analyst/Excel_AtliQ_Reports/blob/main/AtliQ-P_%26_L%20Statement%20by%20Markets.pdf
